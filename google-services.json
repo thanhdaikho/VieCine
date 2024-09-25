@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962033859111",
+    "project_id": "viecine-9d19e",
+    "storage_bucket": "viecine-9d19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962033859111:android:38eece8b93dbf38b1f6c02",
+        "android_client_info": {
+          "package_name": "com.viecine.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_q3FmUpqYgO89yb0Jy490H6PAD-ArvNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
